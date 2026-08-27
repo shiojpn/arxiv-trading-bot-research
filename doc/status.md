@@ -23,3 +23,12 @@
 - Request: Research成果をGitHubで長期共有。
 - Plan: MIT License、Contribution索引、Security、CIを追加し、秘密情報検査後にpublic repositoryへpush。
 - Target: `shiojpn/arxiv-trading-bot-research`。
+
+## 2026-08-28 GitHub public release
+
+- Result: `https://github.com/shiojpn/arxiv-trading-bot-research` をpublic repositoryとして公開。
+- Commit: `13d796b96f184a91e75703a9a8ebb4584e088186`（94 files）。
+- Security: 暗号化秘密鍵、passphrase、実行log、virtual environmentはGit対象外。
+- Verification: ローカル23 tests passed。GitHub Actions run `33087595348` passed on Python 3.12。
+- Maintenance: Node.js 20廃止警告を解消するため、公式ActionsをNode.js 24対応の`checkout@v6` / `setup-python@v6`へ更新。
+- Open issue: GitHub topics、social preview、初回Release、外部紹介記事の整備。

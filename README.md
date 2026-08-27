@@ -1,5 +1,9 @@
 # ArxivResearchAgent
 
+[![tests](https://github.com/shiojpn/arxiv-trading-bot-research/actions/workflows/tests.yml/badge.svg)](https://github.com/shiojpn/arxiv-trading-bot-research/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](pyproject.toml)
+
 ChatGPTの定期タスクが作成したarXiv Research Resultを、ローカルで検証・保存・リンクし、レビュー済みResearch NoteをDID署名付きでTechnocoreへ投稿するKnowledge Management / Publishing Agentです。
 
 公開済み研究成果とDID署名証跡は [`knowledge/contributions/`](knowledge/contributions/) から確認できます。

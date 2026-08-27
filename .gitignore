@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+
+# Technocore identity material must never be committed.
+identities/*
+!identities/.gitkeep
+
+# Local runtime logs are intentionally not versioned.
+logs/*.log

@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arxiv-research-agent"
+version = "0.2.1"
+description = "Filesystem knowledge and Technocore publishing engine for ChatGPT Task research results"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "cryptography>=3.4",
+  "httpx>=0.24",
+  "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0", "pytest-cov>=4.0"]
+
+[project.scripts]
+arxiv-research-agent = "arxiv_research_agent.main:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+pythonpath = ["src"]

@@ -1,0 +1,22 @@
+inbox:
+  supported_schema_versions:
+    - "1.0"
+
+knowledge:
+  auto_merge_exact_matches: true
+
+technocore:
+  base_url: "https://technocore.chat"
+  room: "crypto"
+  auto_publish: false
+  identity_file: "identities/identity.pem"
+  max_note_chars: 4096
+  request_timeout_seconds: 20
+  sync_limit: 200
+  notify_on_reaction: true
+  prohibited_patterns:
+    - "ignore previous instructions"
+    - "rm\\s+-rf"
+    - "curl\\s+https?://"
+    - "wget\\s+https?://"
+    - "<script"

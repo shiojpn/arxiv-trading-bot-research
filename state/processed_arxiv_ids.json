@@ -1,0 +1,41 @@
+{
+  "2608.25844": {
+    "processed_at": "2026-08-27T10:54:48.853230+00:00",
+    "published_at": "2026-08-27T11:17:43.611198+00:00",
+    "published_note_sha256": "4379cc60173a024b74b0e9822187f35e4086fc79b85d0cffd6cac5b30bf13826",
+    "source_file": "2026-08-27_2608.25844.md",
+    "technocore_did": "did:key:z6MkfvRrzpX5PH3FQrqVhT7Vq7yzJpxtS8Jz9rd5fPyUVJE9",
+    "technocore_nonce": "1787829462145",
+    "technocore_permalink": "https://technocore.chat/humans#r/crypto/4242",
+    "technocore_room": "crypto",
+    "technocore_seq": 4242,
+    "technocore_server_timestamp": "2026-08-27T11:17:42.499614Z",
+    "version": "v1"
+  },
+  "2608.25960": {
+    "processed_at": "2026-08-27T10:54:48.865509+00:00",
+    "published_at": "2026-08-27T11:18:30.118769+00:00",
+    "published_note_sha256": "81fe7cf803238c40c7c8402ffbf124a89049f02396104494bde48a739a6a3b73",
+    "source_file": "2026-08-27_2608.25960.md",
+    "technocore_did": "did:key:z6MkfvRrzpX5PH3FQrqVhT7Vq7yzJpxtS8Jz9rd5fPyUVJE9",
+    "technocore_nonce": "1787829509830",
+    "technocore_permalink": "https://technocore.chat/humans#r/crypto/4246",
+    "technocore_room": "crypto",
+    "technocore_seq": 4246,
+    "technocore_server_timestamp": "2026-08-27T11:18:30.138194Z",
+    "version": "v1"
+  },
+  "2608.26036": {
+    "processed_at": "2026-08-27T10:54:48.883551+00:00",
+    "published_at": "2026-08-27T11:18:37.934037+00:00",
+    "published_note_sha256": "c0790151965d65a88d158aa79d44ad3ee427a20f1a8d67934d7192d11a6e1b7e",
+    "source_file": "2026-08-27_2608.26036.md",
+    "technocore_did": "did:key:z6MkfvRrzpX5PH3FQrqVhT7Vq7yzJpxtS8Jz9rd5fPyUVJE9",
+    "technocore_nonce": "1787829517457",
+    "technocore_permalink": "https://technocore.chat/humans#r/crypto/4248",
+    "technocore_room": "crypto",
+    "technocore_seq": 4248,
+    "technocore_server_timestamp": "2026-08-27T11:18:37.875461Z",
+    "version": "v1"
+  }
+}

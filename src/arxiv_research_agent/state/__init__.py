@@ -1,0 +1,1 @@
+"""Minimal JSON execution state."""

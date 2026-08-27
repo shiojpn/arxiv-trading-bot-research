@@ -1,0 +1,15 @@
+{
+  "created_hypotheses": 3,
+  "created_insights": 6,
+  "detected": 3,
+  "error_count": 0,
+  "finished_at": "2026-08-27T10:54:48.894348+00:00",
+  "linked_hypotheses": 0,
+  "linked_insights": 0,
+  "pending_posts": 3,
+  "processed": 3,
+  "rejected": 0,
+  "revisions": 0,
+  "skipped": 0,
+  "valid": 3
+}

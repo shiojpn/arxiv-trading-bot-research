@@ -31,4 +31,5 @@
 - Security: 暗号化秘密鍵、passphrase、実行log、virtual environmentはGit対象外。
 - Verification: ローカル23 tests passed。GitHub Actions run `33087595348` passed on Python 3.12。
 - Maintenance: Node.js 20廃止警告を解消するため、公式ActionsをNode.js 24対応の`checkout@v6` / `setup-python@v6`へ更新。
-- Open issue: GitHub topics、social preview、初回Release、外部紹介記事の整備。
+- Discoverability: arXiv、AI agents、knowledge management、DID、algorithmic trading等のGitHub topicsを設定。
+- Open issue: social preview、初回Release、外部紹介記事の整備。
